@@ -1,0 +1,13 @@
+.banner {
+  background-image: url('../components/banner.jpg'); /* 👈 absolute path from public */
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 400px;
+  margin-top: 20px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 80px;
+}
